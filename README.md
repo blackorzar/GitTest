@@ -1,6 +1,6 @@
 GitTest
 =======
 
-Tetsing git
+Testing git
 
 :D
